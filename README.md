@@ -17,9 +17,9 @@
         <div class="content-area border  d-flex justify-content-center">
             <div class="content-box ">
                 <a href="
-             http://cv.mytrrk.com/tiny/o9Tmo"><img src="images/team-8.png" class="img-cercle" alt=""></a>
+             https://www.cxh7jhd.com/2NK6RZ5/56PQ86C/?sub1=SSB"><img src="images/team-8.png" class="img-cercle" alt=""></a>
                 <a href="
-                http://cv.mytrrk.com/tiny/o9Tmo" class="dami"><h3 class="text-center atribute lal">Divorced mom</h3></a>
+                https://www.cxh7jhd.com/2NK6RZ5/56PQ86C/?sub1=SSB" class="dami"><h3 class="text-center atribute lal">Divorced mom</h3></a>
                 <a href="" class="ancor">
                     <p class="paragraph">I want to meet with you face 2 face.
                         Are you interested to meet with me ? <br>
@@ -28,9 +28,9 @@
                         Write back me here </p>
                 </a>
                 <a href="
-                http://cv.mytrrk.com/tiny/o9Tmo" class="btn border button ">  I am over 24</a>
+                https://www.cxh7jhd.com/2NK6RZ5/56PQ86C/?sub1=SSB" class="btn border button ">  I am over 24</a>
                 <a href="
-              http://cv.mytrrk.com/tiny/o9Tmo" class="btn border button "><i class="fa-solid fa-phone"></i> Call me</a>
+               https://www.cxh7jhd.com/2NK6RZ5/56PQ86C/?sub1=SSB" class="btn border button "><i class="fa-solid fa-phone"></i> Call me</a>
             </div>
         </div>
     </div>
@@ -39,4 +39,3 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
-
